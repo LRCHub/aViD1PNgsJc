@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "歩いて帰ろう",
+  "base_artist": "斉藤和義",
+  "createdAt": "2026-02-17T15:12:14.580631Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歩いて帰ろう",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": true,
+      "path": "select/01_歩いて帰ろう_Kazuyoshi_Saito.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "歩いて帰ろう",
+      "artist": "斉藤和義",
+      "has_synced": true,
+      "path": "select/02_歩いて帰ろう_斉藤和義.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "歩いて帰ろう - Aruite Kaerou",
+      "artist": "Ayaka",
+      "has_synced": true,
+      "path": "select/03_歩いて帰ろう_-_Aruite_Kaerou_Ayaka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "歩いて帰ろう",
+      "artist": "双海亜美",
+      "has_synced": true,
+      "path": "select/04_歩いて帰ろう_双海亜美.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "017. 歩いて帰ろう",
+      "artist": "斉藤和義",
+      "has_synced": false,
+      "path": "select/05_017._歩いて帰ろう_斉藤和義.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歩いて帰ろう",
+      "artist": "斉藤 和義",
+      "has_synced": false,
+      "path": "select/pl_01_歩いて帰ろう_斉藤_和義.txt"
+    }
+  ]
+}
